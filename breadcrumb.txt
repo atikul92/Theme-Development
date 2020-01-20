@@ -17,3 +17,6 @@ add_filter( 'woocommerce_breadcrumb_defaults', 'jk_woocommerce_breadcrumbs' );
 // archive-product.php
 
 <?php woocommerce_breadcrumb(); ?>
+
+
+Atik
